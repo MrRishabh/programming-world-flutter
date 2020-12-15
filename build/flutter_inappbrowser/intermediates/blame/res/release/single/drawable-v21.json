@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\risha\\flutterprojects\\pworld\\build\\flutter_inappbrowser\\intermediates\\res\\merged\\release\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\risha\\.gradle\\caches\\transforms-2\\files-2.1\\e6856c7cff7219f18cbbcc5d8d7cecec\\core-1.1.0\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\flutterprojects\\pworld\\build\\flutter_inappbrowser\\intermediates\\res\\merged\\release\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\risha\\.gradle\\caches\\transforms-2\\files-2.1\\daf264fa6e7de11b2f6c76daa4cf93e0\\appcompat-1.0.0\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\flutterprojects\\pworld\\build\\flutter_inappbrowser\\intermediates\\res\\merged\\release\\drawable-v21\\abc_list_divider_material.xml",
+        "source": "C:\\Users\\risha\\.gradle\\caches\\transforms-2\\files-2.1\\daf264fa6e7de11b2f6c76daa4cf93e0\\appcompat-1.0.0\\res\\drawable-v21\\abc_list_divider_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\flutterprojects\\pworld\\build\\flutter_inappbrowser\\intermediates\\res\\merged\\release\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\risha\\.gradle\\caches\\transforms-2\\files-2.1\\daf264fa6e7de11b2f6c76daa4cf93e0\\appcompat-1.0.0\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\flutterprojects\\pworld\\build\\flutter_inappbrowser\\intermediates\\res\\merged\\release\\drawable-v21\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\risha\\.gradle\\caches\\transforms-2\\files-2.1\\daf264fa6e7de11b2f6c76daa4cf93e0\\appcompat-1.0.0\\res\\drawable-v21\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\flutterprojects\\pworld\\build\\flutter_inappbrowser\\intermediates\\res\\merged\\release\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\risha\\.gradle\\caches\\transforms-2\\files-2.1\\daf264fa6e7de11b2f6c76daa4cf93e0\\appcompat-1.0.0\\res\\drawable-v21\\abc_edit_text_material.xml"
+    }
+]

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "606449038263",
+    "firebase_url": "https://programming-world-c6202.firebaseio.com",
+    "project_id": "programming-world-c6202",
+    "storage_bucket": "programming-world-c6202.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606449038263:android:75371c5eacbf9d843c6e32",
+        "android_client_info": {
+          "package_name": "com.rishabh.pworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606449038263-rpcpcmr0s0qajkv97vg8g8s85nr2ejge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9_OvPSwkH6RLdz_nedDZPZiHp-aFgpG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606449038263-rpcpcmr0s0qajkv97vg8g8s85nr2ejge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

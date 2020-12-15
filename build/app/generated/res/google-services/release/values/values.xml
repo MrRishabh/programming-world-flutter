@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">606449038263-rpcpcmr0s0qajkv97vg8g8s85nr2ejge.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://programming-world-c6202.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">606449038263</string>
+    <string name="google_api_key" translatable="false">AIzaSyC9_OvPSwkH6RLdz_nedDZPZiHp-aFgpG4</string>
+    <string name="google_app_id" translatable="false">1:606449038263:android:75371c5eacbf9d843c6e32</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC9_OvPSwkH6RLdz_nedDZPZiHp-aFgpG4</string>
+    <string name="google_storage_bucket" translatable="false">programming-world-c6202.appspot.com</string>
+    <string name="project_id" translatable="false">programming-world-c6202</string>
+</resources>
